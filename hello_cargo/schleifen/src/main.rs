@@ -1,3 +1,5 @@
+use std::io;
+
 fn main() {
     println!("Hello, world!");
     let number =30;
@@ -24,8 +26,13 @@ fn main() {
     i();
     o();
 
+    println!("Please input your numbers.");
 
-
+    let mut guess = 30;
+    let x:u32 = {
+        sub(guess, 5)
+    };
+    println!("x ist: {}",x);
 }
 
 fn z (mut number:i32) {
@@ -63,4 +70,9 @@ fn o () {
         println!("{}!", number);
     }
     println!("LIFTOFF!!!");
+}
+
+fn sub (num1:u32, num2:u32) -> u32{
+    num1+num2
+
 }
