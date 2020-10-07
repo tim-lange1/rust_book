@@ -2,7 +2,7 @@ use std::collections::HashMap;
 
 fn main() {
     //Vektor
-    let mut vector: Vec<i32> = vec![1,2,3,23,24,5443,24,34];
+    let mut vector: Vec<i32> = vec![1,2,3,23,24,5443,24,34,678,89,3456];
 
     //Methoden aufrufen
     println!("Mittelwert: {}", mittelwert (&vector));
