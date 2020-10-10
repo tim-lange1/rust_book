@@ -1,0 +1,1 @@
+C:\Users\Tim\ Lange\IdeaProjects\rust_book\abschlussprojekt\target\debug\main.exe: C:\Users\Tim\ Lange\IdeaProjects\rust_book\abschlussprojekt\src\bin\main.rs C:\Users\Tim\ Lange\IdeaProjects\rust_book\abschlussprojekt\src\lib.rs

@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["abschlussprojekt"] = [{"text":"impl Freeze for <a class=\"struct\" href=\"abschlussprojekt/struct.ThreadPool.html\" title=\"struct abschlussprojekt::ThreadPool\">ThreadPool</a>","synthetic":true,"types":["abschlussprojekt::ThreadPool"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
